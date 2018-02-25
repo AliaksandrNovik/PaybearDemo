@@ -9,3 +9,7 @@ mvn clean test
 ```javascript 
 mvn clean test site
 ```
+Generated report you can see by this path:
+```javascript 
+target/site/allure-maven
+```
